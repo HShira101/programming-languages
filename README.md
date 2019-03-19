@@ -2,10 +2,12 @@
 Este repositorio contiene el contenido del ramo Lenguajes de Programación que se imparte en la Universidad de Los Lagos. Cualquier actividad y clase que se imparta estará incluido en este espacio.
 ## Clases
 Cada presentacion contiene los contenidos que se vieron en las clases, incluyendo en la sección final cualquier actividad acordada en la clase.
+
 |Clase  |Fecha |
 |--|--|
 |[Paradigmas](https://drive.google.com/open?id=1Cy_Qh1NQp0Bd3MICATrbR9gr16nzH45uuzov8iE6JQ0) |14/03 |
 |[Características de los lenguajes](https://drive.google.com/open?id=1Qd-TpnTqOjXbMPUcaXe8pdV1SWUwG-94XZTj1ENcwdY) (*)|18/03  |
+
 (*): Presentación con actividad en ella
 ## Material de apoyo
 En la siguiente lista se presentan extractos de libros o *papers* para el apoyo de las clases:
@@ -18,5 +20,5 @@ La fecha de cualquier evaluacion en la siguiente tabla:
 (*): Por confirmar
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTUzMDUzMV19
+eyJoaXN0b3J5IjpbMTQ1NDA4NDEyNV19
 -->
