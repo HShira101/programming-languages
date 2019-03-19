@@ -13,9 +13,10 @@ En la siguiente lista se presentan extractos de libros o *papers* para el apoyo 
 La fecha de cualquier evaluacion en la siguiente tabla:
 |Evaluacion  |Fecha  |
 |--|--|
-|Presenta  |  |
+|Presentacion de lenguajes de 3ra generación   |22/03 |
+|Certament |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNzYzMDkzXX0=
+eyJoaXN0b3J5IjpbMjc1OTkxMzk0XX0=
 -->
