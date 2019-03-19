@@ -12,13 +12,15 @@ Cada presentacion contiene los contenidos que se vieron en las clases, incluyend
 ## Material de apoyo
 En la siguiente lista se presentan extractos de libros o *papers* para el apoyo de las clases:
 ## Evaluaciones
-La fecha de cualquier evaluacion en la siguiente tabla:
-|Evaluacion  |Fecha  |
+La fecha de cualquier evaluación en la siguiente tabla:
+
+|Evaluación  |Fecha  |
 |--|--|
-|Presentacion de lenguajes de 3ra generación   |22/03 |
+|Presentación de lenguajes de 3ra generación   |22/03 |
 |Certamen teórico |Semana del 01/04 (*) |
+
 (*): Por confirmar
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDA4NDEyNV19
+eyJoaXN0b3J5IjpbMTQ0NDgyMTAyNV19
 -->
