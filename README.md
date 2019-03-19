@@ -5,10 +5,10 @@ Cada presentacion contiene los contenidos que se vieron en las clases, incluyend
 |Clase  |Fecha |
 |--|--|
 |[Paradigmas](https://drive.google.com/open?id=1Cy_Qh1NQp0Bd3MICATrbR9gr16nzH45uuzov8iE6JQ0) |14/03 |
-|[Características de los lenguajes](https://drive.google.com/open?id=1Qd-TpnTqOjXbMPUcaXe8pdV1SWUwG-94XZTj1ENcwdY) (activida)|18/03  |
+|[Características de los lenguajes](https://drive.google.com/open?id=1Qd-TpnTqOjXbMPUcaXe8pdV1SWUwG-94XZTj1ENcwdY) (*)|18/03  |
+(*): Presentación con actividad en ella
 ## Material de apoyo
 
- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzIwODM1XX0=
+eyJoaXN0b3J5IjpbLTUwMjc2NzQ3NF19
 -->
