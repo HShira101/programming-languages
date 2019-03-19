@@ -8,8 +8,14 @@ Cada presentacion contiene los contenidos que se vieron en las clases, incluyend
 |[Características de los lenguajes](https://drive.google.com/open?id=1Qd-TpnTqOjXbMPUcaXe8pdV1SWUwG-94XZTj1ENcwdY) (*)|18/03  |
 (*): Presentación con actividad en ella
 ## Material de apoyo
-En la siguiente lista se presentan extractos de libros o *papers* para el apoyo de las clases.
+En la siguiente lista se presentan extractos de libros o *papers* para el apoyo de las clases:
+## Evaluaciones
+La fecha de cualquier evaluacion en la siguiente tabla:
+|Evaluacion  |Fecha  |
+|--|--|
+|Presenta  |  |
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTkxNTkwMl19
+eyJoaXN0b3J5IjpbNjYyNzYzMDkzXX0=
 -->
