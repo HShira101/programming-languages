@@ -14,9 +14,9 @@ La fecha de cualquier evaluacion en la siguiente tabla:
 |Evaluacion  |Fecha  |
 |--|--|
 |Presentacion de lenguajes de 3ra generación   |22/03 |
-|Certament |  |
-
+|Certamen teórico |Semana del 01/04 (*) |
+(*): Por confirmar
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1OTkxMzk0XX0=
+eyJoaXN0b3J5IjpbLTM5NTUzMDUzMV19
 -->
