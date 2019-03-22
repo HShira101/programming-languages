@@ -7,7 +7,7 @@ Cada presentacion contiene los contenidos que se vieron en las clases, incluyend
 |--|--|
 |[Paradigmas](https://drive.google.com/open?id=1Cy_Qh1NQp0Bd3MICATrbR9gr16nzH45uuzov8iE6JQ0) |14/03 |
 |[Características de los lenguajes](https://drive.google.com/open?id=1Qd-TpnTqOjXbMPUcaXe8pdV1SWUwG-94XZTj1ENcwdY) (*)|18/03  |
-|[Arquitecturas](https://github.com/f-maldo/programming-languages)|21/03|
+|[Arquitecturas](https://drive.google.com/open?id=1BYzFQf6ryKZh2M4GXiDeiOvZ-VIReI4nwEXl2EW0GvM)|21/03|
 
 (*): Presentación con actividad en ella
 ## Material de apoyo
@@ -23,5 +23,5 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzQzOTU5LDE0NDQ4MjEwMjVdfQ==
+eyJoaXN0b3J5IjpbMTkzNDY1MTYzMSwxNDQ0ODIxMDI1XX0=
 -->
