@@ -7,6 +7,7 @@ Cada presentacion contiene los contenidos que se vieron en las clases, incluyend
 |--|--|
 |[Paradigmas](https://drive.google.com/open?id=1Cy_Qh1NQp0Bd3MICATrbR9gr16nzH45uuzov8iE6JQ0) |14/03 |
 |[Características de los lenguajes](https://drive.google.com/open?id=1Qd-TpnTqOjXbMPUcaXe8pdV1SWUwG-94XZTj1ENcwdY) (*)|18/03  |
+|[Arquitecturas](https://github.com/f-maldo/programming-languages)|21/03|
 
 (*): Presentación con actividad en ella
 ## Material de apoyo
@@ -17,10 +18,9 @@ La fecha de cualquier evaluación en la siguiente tabla:
 |Evaluación  |Fecha  |
 |--|--|
 |Presentación de lenguajes de 3ra generación   |22/03 |
-|Certamen teórico |Semana del 01/04 (*) |
+|Certamen teórico |03/04 |
 
-(*): Por confirmar
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDgyMTAyNV19
+eyJoaXN0b3J5IjpbLTY3Njk5ODQxOCwxNDQ0ODIxMDI1XX0=
 -->
