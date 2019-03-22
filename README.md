@@ -20,7 +20,8 @@ La fecha de cualquier evaluación en la siguiente tabla:
 |Presentación de lenguajes de 3ra generación   |22/03 |
 |Certamen teórico |03/04 |
 
-Los notas actuales se encuentran en el siguiente enlace: 
+Los notas actuales se encuentran en el siguiente enlace: [
+Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4NTQ4NTEzLDE0NDQ4MjEwMjVdfQ==
+eyJoaXN0b3J5IjpbLTkxNzQzOTU5LDE0NDQ4MjEwMjVdfQ==
 -->
