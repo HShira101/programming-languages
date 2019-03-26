@@ -16,10 +16,19 @@ En la siguiente lista se presentan libros, extractos y/o *papers* para el apoyo 
 
 
 | Libro | Tema y página |
-|--|--|
-| Fundamentos de programación | Introducción a los lenguajes de programación (69-73) Fases en la resolución de un problema (75-83) Abstracción (683-687) |
-| Programming languages | Visión general de los lenguajes de programación (24-29) Traductores (41-43) Paradigma imperativo (300-307) Paradigma orientado a objetos (332-355) Paradigma funcional (384-389) Paradigma lógico (436-440) Paradigma guiado por eventos (470-484) |
-| Software architecture | Resumen de arquitectura (16-34) Patrones de diseño (227-260) |
+|--|---------------------------------------------------------|
+| Fundamentos de programación | Introducción a los lenguajes de programación (69-73) |
+|  | Fases en la resolución de un problema (75-83) |
+|  | Abstracción (683-687) |
+| Programming languages | Visión general de los lenguajes de programación (24-29) |
+|  | Traductores (41-43) |
+|  | Paradigma imperativo (300-307) |
+|  | Paradigma orientado a objetos (332-355) |
+|  | Paradigma funcional (384-389) |
+|  | Paradigma lógico (436-440) |
+|  | Paradigma guiado por eventos (470-484) |
+| Software architecture | Resumen de arquitectura (16-34) |
+|  | Patrones de diseño (227-260) |
 
 ## Evaluaciones
 La fecha de cualquier evaluación en la siguiente tabla:
@@ -32,6 +41,6 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODI0Mzg2NiwxOTM0NjUxNjMxLDE0ND
-Q4MjEwMjVdfQ==
+eyJoaXN0b3J5IjpbLTIxNzUzMjM1MSwtOTA4MjQzODY2LDE5Mz
+Q2NTE2MzEsMTQ0NDgyMTAyNV19
 -->
