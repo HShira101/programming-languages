@@ -13,10 +13,10 @@ Cada presentacion contiene los contenidos que se vieron en las clases, incluyend
 ## Material de apoyo
 En la siguiente lista se presentan libros, extractos y/o *papers* para el apoyo de las clases:
 ### Prueba teorica 
-
+En la tabla se encuentran asociadas las paginas con las cuales complementaran las clases. Los libros completos son interesantes, pero al menos para el certamen sera solo n
 
 | Libro | Tema y página |
-|--|---------------------------------------------------------|
+|--|--|
 | Fundamentos de programación | Introducción a los lenguajes de programación (69-73) |
 |  | Fases en la resolución de un problema (75-83) |
 |  | Abstracción (683-687) |
@@ -41,6 +41,6 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzUzMjM1MSwtOTA4MjQzODY2LDE5Mz
+eyJoaXN0b3J5IjpbMTI4MzUxMzIzMSwtOTA4MjQzODY2LDE5Mz
 Q2NTE2MzEsMTQ0NDgyMTAyNV19
 -->
