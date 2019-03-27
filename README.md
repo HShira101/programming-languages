@@ -8,6 +8,7 @@ Cada presentacion contiene los contenidos que se vieron en las clases, incluyend
 |[Paradigmas](https://drive.google.com/open?id=1Cy_Qh1NQp0Bd3MICATrbR9gr16nzH45uuzov8iE6JQ0) |14/03 |
 |[Características de los lenguajes](https://drive.google.com/open?id=1Qd-TpnTqOjXbMPUcaXe8pdV1SWUwG-94XZTj1ENcwdY) (*)|18/03  |
 |[Arquitecturas](https://drive.google.com/open?id=1BYzFQf6ryKZh2M4GXiDeiOvZ-VIReI4nwEXl2EW0GvM)|21/03|
+|[Patrones de diseño](https://drive.google.com/open?id=1IxaWEuzx2lAKWlTJ09tTuptbSsZ3HVo6XhjcEuNQgoo)|27/03|
 
 (*): Presentación con actividad en ella
 ## Material de apoyo
@@ -41,6 +42,6 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4MzQyMTY4LC05MDgyNDM4NjYsMTkzND
-Y1MTYzMSwxNDQ0ODIxMDI1XX0=
+eyJoaXN0b3J5IjpbMTEzOTk0MTM2OSw4NzgzNDIxNjgsLTkwOD
+I0Mzg2NiwxOTM0NjUxNjMxLDE0NDQ4MjEwMjVdfQ==
 -->
