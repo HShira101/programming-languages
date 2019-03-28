@@ -9,7 +9,7 @@ Cada presentacion contiene los contenidos que se vieron en las clases, incluyend
 |[Características de los lenguajes](https://drive.google.com/open?id=1Qd-TpnTqOjXbMPUcaXe8pdV1SWUwG-94XZTj1ENcwdY) (*)|18/03  |
 |[Arquitecturas](https://drive.google.com/open?id=1BYzFQf6ryKZh2M4GXiDeiOvZ-VIReI4nwEXl2EW0GvM)|21/03|
 |[Estructuras y vistas de una arquitectura](https://drive.google.com/open?id=1IxaWEuzx2lAKWlTJ09tTuptbSsZ3HVo6XhjcEuNQgoo)|27/03|
-|Patrones de diseño[enter link description here](https://drive.google.com/open?id=1b2hqlGvrtrz3gN4s7grU4YYaXOA7Zl20f6WAIz4mNEc)|28/03|
+|[Patrones de diseño](https://drive.google.com/open?id=1b2hqlGvrtrz3gN4s7grU4YYaXOA7Zl20f6WAIz4mNEc)|28/03|
 
 (*): Presentación con actividad en ella
 ## Material de apoyo
@@ -43,7 +43,7 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzk1Mzc0NSwxMTM5OTQxMzY5LDg3OD
-M0MjE2OCwtOTA4MjQzODY2LDE5MzQ2NTE2MzEsMTQ0NDgyMTAy
-NV19
+eyJoaXN0b3J5IjpbLTExNzA4NTU4MDEsMTEzOTk0MTM2OSw4Nz
+gzNDIxNjgsLTkwODI0Mzg2NiwxOTM0NjUxNjMxLDE0NDQ4MjEw
+MjVdfQ==
 -->
