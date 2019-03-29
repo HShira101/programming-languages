@@ -14,8 +14,8 @@ Cada presentacion contiene los contenidos que se vieron en las clases, incluyend
 (*): Presentación con actividad en ella
 ## Material de apoyo
 En la siguiente lista se presentan libros, extractos y/o *papers* para el apoyo de las clases:
-### Prueba teorica 
-En la tabla se encuentran asociadas las páginas con las cuales complementaran las clases. Los libros completos son interesantes, pero al menos para el certamen será solo necesario las páginas indicadas.
+### Prueba teórica 
+En la tabla se encuentran asociadas las páginas con las cuales complementarán las clases. Los libros completos son interesantes, pero al menos para el certamen será solo necesario las páginas indicadas.
 
 | Libro | Tema y página |
 |--|--|
@@ -32,6 +32,7 @@ En la tabla se encuentran asociadas las páginas con las cuales complementaran l
 | [Software architecture](https://drive.google.com/open?id=1occsS8pJk2oW0mJTK_ZC1X19MjAWidLN) | Resumen de arquitectura (16-34) |
 |  | Patrones de diseño (227-260) |
 
+El número de página está asociado a la página según el PDF.
 ### Cuestionario
 En [Google Docs](https://drive.google.com/open?id=1ia5uo2XyNcBHlNoPyXgtmqrTvyI6R179EoPEd1Stl6A) podrán encontrar una lista con preguntas asociadas a la prueba teórica. 
 ## Evaluaciones
@@ -46,7 +47,7 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTI4NjEzMiwtMTE3MDg1NTgwMSwxMT
-M5OTQxMzY5LDg3ODM0MjE2OCwtOTA4MjQzODY2LDE5MzQ2NTE2
-MzEsMTQ0NDgyMTAyNV19
+eyJoaXN0b3J5IjpbMTI0NzE1NTI1MywtODI1Mjg2MTMyLC0xMT
+cwODU1ODAxLDExMzk5NDEzNjksODc4MzQyMTY4LC05MDgyNDM4
+NjYsMTkzNDY1MTYzMSwxNDQ0ODIxMDI1XX0=
 -->
