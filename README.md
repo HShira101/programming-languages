@@ -9,7 +9,7 @@ Cada presentacion contiene los contenidos que se vieron en las clases, incluyend
 |[Características de los lenguajes](https://drive.google.com/open?id=1Qd-TpnTqOjXbMPUcaXe8pdV1SWUwG-94XZTj1ENcwdY) (*)|18/03  |
 |[Arquitecturas](https://drive.google.com/open?id=1BYzFQf6ryKZh2M4GXiDeiOvZ-VIReI4nwEXl2EW0GvM)|21/03|
 |[Estructuras y vistas de una arquitectura](https://drive.google.com/open?id=1IxaWEuzx2lAKWlTJ09tTuptbSsZ3HVo6XhjcEuNQgoo)|27/03|
-|[Patrones de diseño](https://drive.google.com/open?id=1b2hqlGvrtrz3gN4s7grU4YYaXOA7Zl20f6WAIz4mNEc)|28/03|
+|[Patrones de diseño](https://drive.google.com/open?id=1b2hqlGvrtrz3gN4s7grU4YYaXOA7Zl20f6WAIz4mNEc) (*)|28/03|
 
 (*): Presentación con actividad en ella
 ## Material de apoyo
@@ -40,12 +40,13 @@ La fecha de cualquier evaluación en la siguiente tabla:
 |Evaluación  |Fecha  |
 |--|--|
 |Presentación de lenguajes de 3ra generación   |22/03 |
-|Certamen teórico |03/04 |
+|Certamen teórico |10/04 |
+|Presentacion de patron de diseño en arquitecturas|11/04|
 
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTIxOTQ5OTIsLTExNzA4NTU4MDEsMT
-EzOTk0MTM2OSw4NzgzNDIxNjgsLTkwODI0Mzg2NiwxOTM0NjUx
-NjMxLDE0NDQ4MjEwMjVdfQ==
+eyJoaXN0b3J5IjpbLTczMzU0NjAxNCwtMTE3MDg1NTgwMSwxMT
+M5OTQxMzY5LDg3ODM0MjE2OCwtOTA4MjQzODY2LDE5MzQ2NTE2
+MzEsMTQ0NDgyMTAyNV19
 -->
