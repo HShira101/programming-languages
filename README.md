@@ -33,7 +33,7 @@ En la tabla se encuentran asociadas las páginas con las cuales complementaran l
 |  | Patrones de diseño (227-260) |
 
 ### Cuestionario
-En Google Docs podrán encontrar una lista con preguntas asociadas a la prueba teórica. 
+En [Google Docs](https://drive.google.com/open?id=1ia5uo2XyNcBHlNoPyXgtmqrTvyI6R179EoPEd1Stl6A) podrán encontrar una lista con preguntas asociadas a la prueba teórica. 
 ## Evaluaciones
 La fecha de cualquier evaluación en la siguiente tabla:
 
@@ -45,7 +45,7 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDQ0MjQwMCwtMTE3MDg1NTgwMSwxMT
-M5OTQxMzY5LDg3ODM0MjE2OCwtOTA4MjQzODY2LDE5MzQ2NTE2
-MzEsMTQ0NDgyMTAyNV19
+eyJoaXN0b3J5IjpbLTIxMTIxOTQ5OTIsLTExNzA4NTU4MDEsMT
+EzOTk0MTM2OSw4NzgzNDIxNjgsLTkwODI0Mzg2NiwxOTM0NjUx
+NjMxLDE0NDQ4MjEwMjVdfQ==
 -->
