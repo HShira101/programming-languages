@@ -32,6 +32,8 @@ En la tabla se encuentran asociadas las páginas con las cuales complementaran l
 | [Software architecture](https://drive.google.com/open?id=1occsS8pJk2oW0mJTK_ZC1X19MjAWidLN) | Resumen de arquitectura (16-34) |
 |  | Patrones de diseño (227-260) |
 
+### Cuestionario
+En Google Docs podrán encontrar una lista con preguntas asociadas a la prueba teórica. 
 ## Evaluaciones
 La fecha de cualquier evaluación en la siguiente tabla:
 
@@ -43,7 +45,7 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA4NTU4MDEsMTEzOTk0MTM2OSw4Nz
-gzNDIxNjgsLTkwODI0Mzg2NiwxOTM0NjUxNjMxLDE0NDQ4MjEw
-MjVdfQ==
+eyJoaXN0b3J5IjpbMTE3NDQ0MjQwMCwtMTE3MDg1NTgwMSwxMT
+M5OTQxMzY5LDg3ODM0MjE2OCwtOTA4MjQzODY2LDE5MzQ2NTE2
+MzEsMTQ0NDgyMTAyNV19
 -->
