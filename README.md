@@ -19,9 +19,7 @@ En la tabla se encuentran asociadas las páginas con las cuales complementarán 
 
 | Libro | Tema y página |
 |--|--|
-| [Fundamentos de programación](https://drive.google.com/open?id=1LWkQp3fYgu85ITHP4lENTxy96QFHTL_V) | Introducción a los lenguajes de programación (69-73) |
-|  | Fases en la resolución de un problema (75-83) |
-|  | Abstracción (683-687) |
+| [Fundamentos de programación](https://drive.google.com/open?id=1LWkQp3fYgu85ITHP4lENTxy96QFHTL_V) | 69-73, 75-83, 683-687 |
 | [Programming languages](https://drive.google.com/open?id=1Vryer3yL3wL_stWaMqLc_ps-yNeJcPlz) | Visión general de los lenguajes de programación (24-29) |
 |  | Traductores (41-43) |
 |  | Paradigma imperativo (300-307) |
@@ -47,7 +45,7 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0Nzg0ODI3LDEyNDcxNTUyNTMsLTgyNT
+eyJoaXN0b3J5IjpbNjcwMjgxNDQxLDEyNDcxNTUyNTMsLTgyNT
 I4NjEzMiwtMTE3MDg1NTgwMSwxMTM5OTQxMzY5LDg3ODM0MjE2
 OCwtOTA4MjQzODY2LDE5MzQ2NTE2MzEsMTQ0NDgyMTAyNV19
 -->
