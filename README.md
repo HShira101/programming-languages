@@ -20,15 +20,9 @@ En la tabla se encuentran asociadas las páginas con las cuales complementarán 
 | Libro | Tema y página |
 |--|--|
 | [Fundamentos de programación](https://drive.google.com/open?id=1LWkQp3fYgu85ITHP4lENTxy96QFHTL_V) | 69-73, 75-83, 683-687 |
-| [Programming languages](https://drive.google.com/open?id=1Vryer3yL3wL_stWaMqLc_ps-yNeJcPlz) | Visión general de los lenguajes de programación (24-29) |
-|  | Traductores (41-43) |
-|  | Paradigma imperativo (300-307) |
-|  | Paradigma orientado a objetos (332-355) |
-|  | Paradigma funcional (384-389) |
-|  | Paradigma lógico (436-440) |
-|  | Paradigma guiado por eventos (470-484) |
-| [Software architecture](https://drive.google.com/open?id=1occsS8pJk2oW0mJTK_ZC1X19MjAWidLN) | Resumen de arquitectura (16-34) |
-|  | Patrones de diseño (227-260) |
+| [Programming languages](https://drive.google.com/open?id=1Vryer3yL3wL_stWaMqLc_ps-yNeJcPlz) | Lenguajes de programación (24-29, 41-43) |
+|  | Paradigmas (300-307, 332-355, 384-389, 436-440, 470-484) |
+| [Software architecture](https://drive.google.com/open?id=1occsS8pJk2oW0mJTK_ZC1X19MjAWidLN) | 16-34, 227-260 |
 
 El número de página está asociado a la página según el PDF.
 ### Cuestionario
@@ -45,7 +39,8 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMjgxNDQxLDEyNDcxNTUyNTMsLTgyNT
-I4NjEzMiwtMTE3MDg1NTgwMSwxMTM5OTQxMzY5LDg3ODM0MjE2
-OCwtOTA4MjQzODY2LDE5MzQ2NTE2MzEsMTQ0NDgyMTAyNV19
+eyJoaXN0b3J5IjpbLTQwMjcyNTMzOCwxMjQ3MTU1MjUzLC04Mj
+UyODYxMzIsLTExNzA4NTU4MDEsMTEzOTk0MTM2OSw4NzgzNDIx
+NjgsLTkwODI0Mzg2NiwxOTM0NjUxNjMxLDE0NDQ4MjEwMjVdfQ
+==
 -->
