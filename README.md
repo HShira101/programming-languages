@@ -30,8 +30,10 @@ En [Google Docs](https://drive.google.com/open?id=1ia5uo2XyNcBHlNoPyXgtmqrTvyI6R
 ### Material de programación
 El siguiente listado de libros corresponde a las guias que usaremos en el ramo para aprender Python:
 
- - List item
+ - Python Crash Course
+ - Mastering Python
 
+El primero corresponde a un libro mas basico de Python, mientras que el segundo corresponde a un libro para especializarse
 ## Evaluaciones
 La fecha de cualquier evaluación en la siguiente tabla:
 
@@ -44,8 +46,8 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzE1MzQzMywxMjQ3MTU1MjUzLC04Mj
-UyODYxMzIsLTExNzA4NTU4MDEsMTEzOTk0MTM2OSw4NzgzNDIx
-NjgsLTkwODI0Mzg2NiwxOTM0NjUxNjMxLDE0NDQ4MjEwMjVdfQ
-==
+eyJoaXN0b3J5IjpbLTEyNTM1OTk1NzksMTI0NzE1NTI1MywtOD
+I1Mjg2MTMyLC0xMTcwODU1ODAxLDExMzk5NDEzNjksODc4MzQy
+MTY4LC05MDgyNDM4NjYsMTkzNDY1MTYzMSwxNDQ0ODIxMDI1XX
+0=
 -->
