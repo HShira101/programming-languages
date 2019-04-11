@@ -27,6 +27,7 @@ En la tabla se encuentran asociadas las páginas con las cuales complementarán 
 El número de página está asociado a la página según el PDF.
 ### Cuestionario
 En [Google Docs](https://drive.google.com/open?id=1ia5uo2XyNcBHlNoPyXgtmqrTvyI6R179EoPEd1Stl6A) podrán encontrar una lista con preguntas asociadas a la prueba teórica. 
+### Material de programación
 ## Evaluaciones
 La fecha de cualquier evaluación en la siguiente tabla:
 
@@ -39,7 +40,7 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjcyNTMzOCwxMjQ3MTU1MjUzLC04Mj
+eyJoaXN0b3J5IjpbLTQ5OTY4MDUyNSwxMjQ3MTU1MjUzLC04Mj
 UyODYxMzIsLTExNzA4NTU4MDEsMTEzOTk0MTM2OSw4NzgzNDIx
 NjgsLTkwODI0Mzg2NiwxOTM0NjUxNjMxLDE0NDQ4MjEwMjVdfQ
 ==
