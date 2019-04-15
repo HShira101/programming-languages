@@ -8,7 +8,8 @@
 ## Instalando Jupyter
  5. Con pip3 funcionando, basta con correr el siguiente comando que instalará jupyter para el usuario actual del sistema:
 `pip3 install --user jupyter`
- 6. [OPCIONAL] Una vez finalizada la instalacion, si aparecen mensaje de color amarillo como los de la imagen, de
+ 6. [OPCIONAL] Una vez finalizada la instalación, si aparecen mensaje de color amarillo como los de la imagen, deberás agregar la ruta de jupyter a la ruta general del sistema (*PATH*).
+ 7. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzAwNTY1MF19
+eyJoaXN0b3J5IjpbMTY2NjA0NzgxNV19
 -->
