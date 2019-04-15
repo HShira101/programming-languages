@@ -7,9 +7,11 @@
  4. Abre cmd y ejecuta tanto el comando python, como pip3. Si el resultado es similar al de las imágenes, ambas funcionalidades se han instalado correctamente.
 ## Instalando Jupyter
  5. Con pip3 funcionando, basta con correr el siguiente comando:
-
+~~~
+pip3 install
+~~~
  6. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTk1MzAwMl19
+eyJoaXN0b3J5IjpbLTM2NzQwNTM5MV19
 -->
