@@ -35,9 +35,9 @@ El siguiente listado de libros corresponde a las guias que usaremos en el ramo p
 
 El primero corresponde a un libro más básico de Python, mientras que el segundo es un libro para especializarse en el lenguaje.
 ### Tutoriales
-En el siguiente listado se encuntran algunos tutoriales para asistir los problemas en la instalacion y/o gestion de software:
+En el siguiente listado se encuentran algunos tutoriales para asistir los problemas en la instalación y/o gestión de software:
 
-- 
+- [Tutorial de instalación de Python en Windows](/Tutorial%20Python%20en%20Windows.md)
 
 ## Evaluaciones
 La fecha de cualquier evaluación en la siguiente tabla:
@@ -51,8 +51,8 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Nzk0MzM2MSw2MDEyMzU3MCwxMjQ3MT
-U1MjUzLC04MjUyODYxMzIsLTExNzA4NTU4MDEsMTEzOTk0MTM2
-OSw4NzgzNDIxNjgsLTkwODI0Mzg2NiwxOTM0NjUxNjMxLDE0ND
-Q4MjEwMjVdfQ==
+eyJoaXN0b3J5IjpbLTE5MjQyOTY5NTcsLTY4Nzk0MzM2MSw2MD
+EyMzU3MCwxMjQ3MTU1MjUzLC04MjUyODYxMzIsLTExNzA4NTU4
+MDEsMTEzOTk0MTM2OSw4NzgzNDIxNjgsLTkwODI0Mzg2NiwxOT
+M0NjUxNjMxLDE0NDQ4MjEwMjVdfQ==
 -->
