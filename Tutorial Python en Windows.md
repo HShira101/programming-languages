@@ -6,10 +6,9 @@
  3. Una vez completada la instalación, deshabilitar el límite de ruta máxima de Windows usando la función extra que ofrece el instalador de Python.
  4. Abre cmd y ejecuta tanto el comando python, como pip3. Si el resultado es similar al de las imágenes, ambas funcionalidades se han instalado correctamente.
 ## Instalando Jupyter
- 5. Con pip3 funcionando, basta con correr el siguiente comando que instalara jupyter para el usuario actual del sistema:
+ 5. Con pip3 funcionando, basta con correr el siguiente comando que instalará jupyter para el usuario actual del sistema:
 `pip3 install --user jupyter`
- 6. 
-
+ 6. [OPCIONAL] Una vez finalizada la instalacion, si aparecen mensaje de color amarillo como los de la imagen, de
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDk5MjQ3MF19
+eyJoaXN0b3J5IjpbMTgxMzAwNTY1MF19
 -->
