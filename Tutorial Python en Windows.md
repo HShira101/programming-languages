@@ -6,7 +6,9 @@
  2. Abrir el instalador y verificar ambos campos disponibles.
 ![Paso 2](/Im%C3%A1genes/Tutorial%20Python%20Windows/4.png)
  3. Una vez completada la instalación, deshabilitar el límite de ruta máxima de Windows usando la función extra que ofrece el instalador de Python.
+![Paso 3](/Im%C3%A1genes/Tutorial%20Python%20Windows/5.png)
  4. Abre cmd y ejecuta tanto el comando python, como pip3. Si el resultado es similar al de las imágenes, ambas funcionalidades se han instalado correctamente.
+![Paso 4](/Im%C3%A1genes/Tutorial%20Python%20Windows/1.png)
 ## Instalando Jupyter
  5. Con pip3 funcionando, basta con correr el siguiente comando que instalará jupyter para el usuario actual del sistema:
 `pip3 install --user jupyter`
@@ -16,6 +18,6 @@
  9. Una vez instalado correctamente jupyter, basta con cerrar y abrir la consola, y ejecutar para comprobar la instalación:
 `jupyter notebook`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzMwNDc0NywtMTI4NTY0Nzg4OSwxND
-cwNDg0NzEzXX0=
+eyJoaXN0b3J5IjpbLTE1MjQ2NjIzMDAsLTEyODU2NDc4ODksMT
+Q3MDQ4NDcxM119
 -->
