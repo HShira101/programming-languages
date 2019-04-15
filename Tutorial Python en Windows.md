@@ -14,13 +14,16 @@
  5. Con pip3 funcionando, basta con correr el siguiente comando que instalará jupyter para el usuario actual del sistema:
 `pip3 install --user jupyter`
 ![Paso 5](/Im%C3%A1genes/Tutorial%20Python%20Windows/8.png)
- 6. [OPCIONAL] Una vez finalizada la instalación, si aparecen mensaje de color amarillo como los de la imagen, deberás agregar la ruta de jupyter a la ruta general del sistema (*PATH*)..
+ 6. [OPCIONAL] Una vez finalizada la instalación, si aparecen mensaje de color amarillo como los de la imagen, deberás agregar la ruta de jupyter a la ruta general del sistema (*PATH*) copiando la ruta que está destacada, pero sin agregar las comillas.
 ![Paso 6](/Im%C3%A1genes/Tutorial%20Python%20Windows/9.png)
  7. [OPCIONAL] Abre las variables de entorno, y edita la variable *PATH* del usuario (si usas más de un usuario en el computador, opta por cambiar la variable del sistema).
+![Paso 7](/Im%C3%A1genes/Tutorial%20Python%20Windows/11.png)
  8. [OPCIONAL] Una vez abierta la variable, agrega la nueva ruta de jupyter copiada en pasos anteriores con el botón **Nuevo**. Para finalizar, simplemente acepta en los 3 cuadros abiertos.
+![Paso 8](/Im%C3%A1genes/Tutorial%20Python%20Windows/13.png)
  9. Una vez instalado correctamente jupyter, basta con cerrar y abrir la consola, y ejecutar para comprobar la instalación:
 `jupyter notebook`
+![Paso 9](/Im%C3%A1genes/Tutorial%20Python%20Windows/14.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTg1Mjk4MSwtMTI4NTY0Nzg4OSwxND
+eyJoaXN0b3J5IjpbLTU5NzQ1ODk5OSwtMTI4NTY0Nzg4OSwxND
 cwNDg0NzEzXX0=
 -->
