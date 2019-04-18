@@ -30,10 +30,15 @@ En [Google Docs](https://drive.google.com/open?id=1ia5uo2XyNcBHlNoPyXgtmqrTvyI6R
 ### Material de programación
 El siguiente listado de libros corresponde a las guias que usaremos en el ramo para aprender Python:
 
- - Python Crash Course
- - Mastering Python
+ - [Python Crash Course](https://drive.google.com/open?id=1jC3bjkyP-tWN1VsQrOR-b-Drsf1X8gTG)
+ - [Mastering Python](https://drive.google.com/open?id=1dviuVUd8Bed-NFq3b3fMMkSnVfJxM-V_)
 
-El primero corresponde a un libro más básico de Python, mientras que el segundo corresponde a un libro para especializarse en el lenguaje.
+El primero corresponde a un libro más básico de Python, mientras que el segundo es un libro para especializarse en el lenguaje.
+### Tutoriales
+En el siguiente listado se encuentran algunos tutoriales para asistir los problemas en la instalación y/o gestión de software:
+
+- [Tutorial de instalación de Python en Windows](/Tutorial%20Python%20en%20Windows.md)
+
 ## Evaluaciones
 La fecha de cualquier evaluación en la siguiente tabla:
 
@@ -46,7 +51,8 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMjM1NzAsMTI0NzE1NTI1MywtODI1Mj
-g2MTMyLC0xMTcwODU1ODAxLDExMzk5NDEzNjksODc4MzQyMTY4
-LC05MDgyNDM4NjYsMTkzNDY1MTYzMSwxNDQ0ODIxMDI1XX0=
+eyJoaXN0b3J5IjpbLTE5MjQyOTY5NTcsLTY4Nzk0MzM2MSw2MD
+EyMzU3MCwxMjQ3MTU1MjUzLC04MjUyODYxMzIsLTExNzA4NTU4
+MDEsMTEzOTk0MTM2OSw4NzgzNDIxNjgsLTkwODI0Mzg2NiwxOT
+M0NjUxNjMxLDE0NDQ4MjEwMjVdfQ==
 -->
