@@ -36,7 +36,9 @@ El siguiente listado de libros corresponde a las guias que usaremos en el ramo p
 El primero corresponde a un libro más básico de Python, mientras que el segundo es un libro para especializarse en el lenguaje.
 ### Ejercicios
 En el listado a continuacion se presentan los ejercicios para el desarrollo personal de Python. 
-(*): Ejercicios con actividad en ellos
+- [Ejercicios básicos de Python](https://drive.google.com/open?id=1Hr_qru4lWsjP-fl4GCzqe0WNs2uddNPt2JOrnz3Jeug)
+
+(*): Ejercicios con actividad al final.
 ### Tutoriales
 En el siguiente listado se encuentran algunos tutoriales para asistir los problemas en la instalación y/o gestión de software:
 
@@ -54,7 +56,7 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NTM2MzA2LC0xOTI0Mjk2OTU3LC02OD
+eyJoaXN0b3J5IjpbNzMxMzQ1OTM2LC0xOTI0Mjk2OTU3LC02OD
 c5NDMzNjEsNjAxMjM1NzAsMTI0NzE1NTI1MywtODI1Mjg2MTMy
 LC0xMTcwODU1ODAxLDExMzk5NDEzNjksODc4MzQyMTY4LC05MD
 gyNDM4NjYsMTkzNDY1MTYzMSwxNDQ0ODIxMDI1XX0=
