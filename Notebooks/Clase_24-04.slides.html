@@ -13858,7 +13858,15 @@ Cocinando pizza con los siguientes ingredientes:
 </div>
 </div>
 
-</div></div><div class="fragment">
+</div></div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Cuidado con los valores opcionales</p>
+
+</div>
+</div>
+</div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[40]:</div>
@@ -13896,6 +13904,58 @@ Cocinando pizza de 15 pulgadas con los siguientes ingredientes:
 - Tocino
 - Jamón
 - Salame
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div></div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Pasando-un-n&#250;mero-arbitriario-de-par&#225;metros">Pasando un n&#250;mero arbitriario de par&#225;metros<a class="anchor-link" href="#Pasando-un-n&#250;mero-arbitriario-de-par&#225;metros">&#182;</a></h2>
+</div>
+</div>
+</div><div class="fragment">
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[44]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">perfil</span><span class="p">(</span><span class="n">nombre</span><span class="p">,</span> <span class="n">apellido</span><span class="p">,</span> <span class="o">**</span><span class="n">informacion</span><span class="p">):</span>
+    <span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">informacion</span><span class="p">))</span>
+    <span class="n">usuario</span> <span class="o">=</span> <span class="p">{}</span>
+    <span class="n">usuario</span><span class="p">[</span><span class="s2">&quot;nombre&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="n">nombre</span>
+    <span class="n">usuario</span><span class="p">[</span><span class="s2">&quot;apellido&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="n">apellido</span>
+    <span class="k">for</span> <span class="n">key</span><span class="p">,</span> <span class="n">value</span> <span class="ow">in</span> <span class="n">informacion</span><span class="o">.</span><span class="n">items</span><span class="p">():</span>
+        <span class="n">usuario</span><span class="p">[</span><span class="n">key</span><span class="p">]</span> <span class="o">=</span> <span class="n">value</span>
+    <span class="k">return</span> <span class="n">usuario</span>
+
+<span class="n">mi_perfil</span> <span class="o">=</span> <span class="n">perfil</span><span class="p">(</span><span class="s2">&quot;Felipe&quot;</span><span class="p">,</span> 
+                   <span class="s2">&quot;Maldonado&quot;</span><span class="p">,</span> 
+                   <span class="n">universidad</span><span class="o">=</span><span class="s2">&quot;ULagos&quot;</span><span class="p">,</span> 
+                   <span class="n">titulo</span><span class="o">=</span><span class="s2">&quot;Ing. Civil en Informática&quot;</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">mi_perfil</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>&lt;class &#39;dict&#39;&gt;
+{&#39;nombre&#39;: &#39;Felipe&#39;, &#39;apellido&#39;: &#39;Maldonado&#39;, &#39;universidad&#39;: &#39;ULagos&#39;, &#39;titulo&#39;: &#39;Ing. Civil en Informática&#39;}
 </pre>
 </div>
 </div>
