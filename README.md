@@ -37,6 +37,7 @@ El primero corresponde a un libro más básico de Python, mientras que el segund
 ### Ejercicios
 En el listado a continuacion se presentan los ejercicios para el desarrollo personal de Python. 
 - [Ejercicios básicos de Python](https://drive.google.com/open?id=1Hr_qru4lWsjP-fl4GCzqe0WNs2uddNPt2JOrnz3Jeug)
+- [Actividad 24/04](https://drive.google.com/open?id=1BfMOfVwqjlMJPZD9ltJ009rL1ydQ0XWCn5ZNPGxFgFw) (*)
 
 (*): Ejercicios con actividad al final.
 ### Tutoriales
@@ -56,8 +57,9 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxMzQ1OTM2LC0xOTI0Mjk2OTU3LC02OD
-c5NDMzNjEsNjAxMjM1NzAsMTI0NzE1NTI1MywtODI1Mjg2MTMy
-LC0xMTcwODU1ODAxLDExMzk5NDEzNjksODc4MzQyMTY4LC05MD
-gyNDM4NjYsMTkzNDY1MTYzMSwxNDQ0ODIxMDI1XX0=
+eyJoaXN0b3J5IjpbLTQxMDUyNTU2MSw3MzEzNDU5MzYsLTE5Mj
+QyOTY5NTcsLTY4Nzk0MzM2MSw2MDEyMzU3MCwxMjQ3MTU1MjUz
+LC04MjUyODYxMzIsLTExNzA4NTU4MDEsMTEzOTk0MTM2OSw4Nz
+gzNDIxNjgsLTkwODI0Mzg2NiwxOTM0NjUxNjMxLDE0NDQ4MjEw
+MjVdfQ==
 -->
