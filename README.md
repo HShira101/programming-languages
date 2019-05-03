@@ -53,13 +53,15 @@ La fecha de cualquier evaluación en la siguiente tabla:
 |Presentación de lenguajes de 3ra generación   |22/03 |
 |Certamen teórico |10/04 |
 |Presentación de patrones de diseño en arquitecturas|17/04|
+|Presentacion de ejericio||
+|||
 
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDUyNTU2MSw3MzEzNDU5MzYsLTE5Mj
-QyOTY5NTcsLTY4Nzk0MzM2MSw2MDEyMzU3MCwxMjQ3MTU1MjUz
-LC04MjUyODYxMzIsLTExNzA4NTU4MDEsMTEzOTk0MTM2OSw4Nz
-gzNDIxNjgsLTkwODI0Mzg2NiwxOTM0NjUxNjMxLDE0NDQ4MjEw
-MjVdfQ==
+eyJoaXN0b3J5IjpbLTkwMDUxNTA5MywtNDEwNTI1NTYxLDczMT
+M0NTkzNiwtMTkyNDI5Njk1NywtNjg3OTQzMzYxLDYwMTIzNTcw
+LDEyNDcxNTUyNTMsLTgyNTI4NjEzMiwtMTE3MDg1NTgwMSwxMT
+M5OTQxMzY5LDg3ODM0MjE2OCwtOTA4MjQzODY2LDE5MzQ2NTE2
+MzEsMTQ0NDgyMTAyNV19
 -->
