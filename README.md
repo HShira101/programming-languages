@@ -53,15 +53,15 @@ La fecha de cualquier evaluación en la siguiente tabla:
 |Presentación de lenguajes de 3ra generación   |22/03 |
 |Certamen teórico |10/04 |
 |Presentación de patrones de diseño en arquitecturas|17/04|
-|Presentacion de ejericio||
-|||
+|[Presentacion de ejericios 24-04](https://drive.google.com/open?id=1BfMOfVwqjlMJPZD9ltJ009rL1ydQ0XWCn5ZNPGxFgFw)|01/05|
+|P1: Servicio de mensajeria||
 
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDUxNTA5MywtNDEwNTI1NTYxLDczMT
-M0NTkzNiwtMTkyNDI5Njk1NywtNjg3OTQzMzYxLDYwMTIzNTcw
-LDEyNDcxNTUyNTMsLTgyNTI4NjEzMiwtMTE3MDg1NTgwMSwxMT
-M5OTQxMzY5LDg3ODM0MjE2OCwtOTA4MjQzODY2LDE5MzQ2NTE2
-MzEsMTQ0NDgyMTAyNV19
+eyJoaXN0b3J5IjpbLTE0NDAzNzA2MzYsLTQxMDUyNTU2MSw3Mz
+EzNDU5MzYsLTE5MjQyOTY5NTcsLTY4Nzk0MzM2MSw2MDEyMzU3
+MCwxMjQ3MTU1MjUzLC04MjUyODYxMzIsLTExNzA4NTU4MDEsMT
+EzOTk0MTM2OSw4NzgzNDIxNjgsLTkwODI0Mzg2NiwxOTM0NjUx
+NjMxLDE0NDQ4MjEwMjVdfQ==
 -->
