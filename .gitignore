@@ -270,3 +270,5 @@ GitHub.sublime-settings
 
 # End of https://www.gitignore.io/api/linux,python,pycharm+all,sublimetext,jupyternotebook
 
+# Personal configurations
+Ejemplos/Ejemplos_PyGame/
