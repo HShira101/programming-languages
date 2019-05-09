@@ -272,3 +272,4 @@ GitHub.sublime-settings
 
 # Personal configurations
 Ejemplos/Ejemplos_PyGame/
+*.json
