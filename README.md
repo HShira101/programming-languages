@@ -44,6 +44,7 @@ En el listado a continuacion se presentan los ejercicios para el desarrollo pers
 - [Ejercicios básicos de Python](https://drive.google.com/open?id=1Hr_qru4lWsjP-fl4GCzqe0WNs2uddNPt2JOrnz3Jeug)
 - [Actividad 24/04](https://drive.google.com/open?id=1BfMOfVwqjlMJPZD9ltJ009rL1ydQ0XWCn5ZNPGxFgFw) (*)
 - [Solucionario Actividad 24/04](/Ejemplos/Actividad_24-04/Notebook.ipynb)
+- [Guía de JSON](/Ejemplos/Ejemplo_JSON.ipynb)
 
 (*): Ejercicios con actividad al final.
 ### Tutoriales
@@ -65,10 +66,10 @@ La fecha de cualquier evaluación en la siguiente tabla:
 Los notas actuales se encuentran en el siguiente enlace: [
 Google Sheets](https://drive.google.com/open?id=1txo0mY3FapljO3uXGrI1Wce3FmH1ZqM9Idox0ArcanI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjI1Njk0MiwtMTk1NzQ0NzI2NywtMT
-Q0MDM3MDYzNiwtNDEwNTI1NTYxLDczMTM0NTkzNiwtMTkyNDI5
-Njk1NywtNjg3OTQzMzYxLDYwMTIzNTcwLDEyNDcxNTUyNTMsLT
-gyNTI4NjEzMiwtMTE3MDg1NTgwMSwxMTM5OTQxMzY5LDg3ODM0
-MjE2OCwtOTA4MjQzODY2LDE5MzQ2NTE2MzEsMTQ0NDgyMTAyNV
-19
+eyJoaXN0b3J5IjpbMzc3MTA4MTkzLDEyMTYyNTY5NDIsLTE5NT
+c0NDcyNjcsLTE0NDAzNzA2MzYsLTQxMDUyNTU2MSw3MzEzNDU5
+MzYsLTE5MjQyOTY5NTcsLTY4Nzk0MzM2MSw2MDEyMzU3MCwxMj
+Q3MTU1MjUzLC04MjUyODYxMzIsLTExNzA4NTU4MDEsMTEzOTk0
+MTM2OSw4NzgzNDIxNjgsLTkwODI0Mzg2NiwxOTM0NjUxNjMxLD
+E0NDQ4MjEwMjVdfQ==
 -->
